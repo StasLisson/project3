@@ -1,0 +1,90 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:12.318190+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1664.53
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:12.344737+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1428.59
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:12.493201+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 173.6
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:12.646435+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 300.14
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:12.675590+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1504.04
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:12.782337+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 267.48
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:12.940995+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 172.04
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:12.986740+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1561.03
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:13.154344+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1432.65
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:13.192472+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/environment-as-attention-dbef71a5/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 173.73
+}

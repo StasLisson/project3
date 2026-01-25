@@ -1,0 +1,90 @@
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:35.138316+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 804.21
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:35.434481+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 848.95
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:35.507605+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.87
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:35.690670+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 860.84
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:35.749535+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 177.66
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:35.893727+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 818.78
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:35.993133+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.39
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:36.230123+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 172.25
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:36.484591+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 178.51
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:36.753025+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/use-financial-notice-west-raise-8041689d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 179.18
+}

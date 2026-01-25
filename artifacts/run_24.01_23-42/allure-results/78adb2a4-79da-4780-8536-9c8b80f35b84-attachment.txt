@@ -1,0 +1,16 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:42:07.046933+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "unauth-should-fail",
+      "description": "unauth-should-fail",
+      "body": "unauth-should-fail",
+      "tagList": []
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1243.03
+}

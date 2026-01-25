@@ -1,0 +1,4 @@
+{
+    "test": "test_security_sql_injection_login_attempt_should_fail",
+    "error": "browser = <infra.browser_wrapper.BrowserWrapper object at 0x0000023501AB8190>\n\n    @pytest.mark.negative\n    def test_security_sql_injection_login_attempt_should_fail(browser):\n        \"\"\"T_SELE_31: SQL Injection Attempt.\"\"\"\n        auth_page = AuthenticationPage(browser)\n>       auth_page.navigate_to_login()\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^\nE       AttributeError: 'AuthenticationPage' object has no attribute 'navigate_to_login'\n\ntest\\test_application_security.py:75: AttributeError"
+}

@@ -1,0 +1,9 @@
+ERROR    root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:14:50.276829+00:00",
+  "method": "GET",
+  "endpoint": "/api/articles/food-decade-fly-24e30345",
+  "status_code": 404,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"Article not found \"]}}",
+  "elapsed_ms": 983.5
+}

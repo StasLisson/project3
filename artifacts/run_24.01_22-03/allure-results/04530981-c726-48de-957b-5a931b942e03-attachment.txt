@@ -1,0 +1,80 @@
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:53.226005+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 422,
+  "request_payload": {
+    "article": {
+      "title": "Load",
+      "description": "D",
+      "body": "B",
+      "tagList": []
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"Title already exists.. \"]}}",
+  "elapsed_ms": 178.9
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:53.411979+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 422,
+  "request_payload": {
+    "article": {
+      "title": "Load",
+      "description": "D",
+      "body": "B",
+      "tagList": []
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"Title already exists.. \"]}}",
+  "elapsed_ms": 184.94
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:53.596879+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 422,
+  "request_payload": {
+    "article": {
+      "title": "Load",
+      "description": "D",
+      "body": "B",
+      "tagList": []
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"Title already exists.. \"]}}",
+  "elapsed_ms": 183.92
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:53.776189+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 422,
+  "request_payload": {
+    "article": {
+      "title": "Load",
+      "description": "D",
+      "body": "B",
+      "tagList": []
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"Title already exists.. \"]}}",
+  "elapsed_ms": 178.27
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:53.955478+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 422,
+  "request_payload": {
+    "article": {
+      "title": "Load",
+      "description": "D",
+      "body": "B",
+      "tagList": []
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"Title already exists.. \"]}}",
+  "elapsed_ms": 178.3
+}

@@ -1,0 +1,10 @@
+{
+  "run_id": "23.01_21-39",
+  "started_at": "23.01 21:39",
+  "headless": true,
+  "xdist": {
+    "enabled": false,
+    "numprocesses": null
+  },
+  "base_url": "https://conduit-realworld-example-app.fly.dev"
+}

@@ -5,31 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1340345b-5e15-4de4-8c26-461bba93bc12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/api_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/browser_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/flows/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/flows/article_flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/flows/authentication_flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/pages/article_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/pages/authentication_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/pages/editor_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/pages/home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/pages/profile_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/pages/settings_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_application_security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_article_management_scenarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_authentication_scenarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_social_interactions_scenarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_stress_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/api_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/faker_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/StasLisson/project3.git",
-    "accountId": "0561227b-38fe-4521-a85c-574ef12c0314"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;StasLisson&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/StasLisson/project3.git&quot;,
+    &quot;accountId&quot;: &quot;0561227b-38fe-4521-a85c-574ef12c0314&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="38Vrc2ujYGo8wDf5rZGKrt3pcGv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,13 +76,120 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for test.test_negative.test_user_login_success.executor": "Run",
+    "Python tests.Python tests for test.test_testing.test_article_editing_update_title_should_publish_successfully.executor": "Debug",
+    "Python tests.Python tests for test.test_testing.test_stress_api_favorite_toggles_thrash.executor": "Run",
+    "Python tests.Python tests for test.test_testing.test_stress_api_payload_fuzzing.executor": "Run",
+    "Python tests.Python tests in test_application_security.py.executor": "Run",
+    "Python tests.Python tests in test_article_management_scenarios.py.executor": "Run",
+    "Python tests.Python tests in test_authentication_scenarios.py.executor": "Run",
+    "Python tests.Python tests in test_negative.py.executor": "Run",
+    "Python tests.Python tests in test_social_interactions_scenarios.py.executor": "Run",
+    "Python tests.Python tests in test_stress_testing.py.executor": "Run",
+    "Python tests.Python tests in test_testing.py.executor": "Run",
+    "Python tests.Python tests in testing.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "step-1-json,-locators-and-testing-them",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\GitHub\project3\utils" />
+      <recent name="C:\Users\Admin\Desktop\GitHub\project3\venv314" />
+      <recent name="C:\Users\Admin\Desktop\GitHub\project3\logic\flows" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_article_management_scenarios.py">
+    <configuration name="Python tests in test_application_security.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="project3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_application_security.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_article_management_scenarios.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="project3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_article_management_scenarios.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_authentication_scenarios.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="project3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_authentication_scenarios.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_social_interactions_scenarios.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="project3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_social_interactions_scenarios.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_stress_testing.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="project3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_stress_testing.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_article_management_scenarios.py" />
+        <item itemvalue="Python tests.Python tests in test_authentication_scenarios.py" />
+        <item itemvalue="Python tests.Python tests in test_stress_testing.py" />
+        <item itemvalue="Python tests.Python tests in test_social_interactions_scenarios.py" />
+        <item itemvalue="Python tests.Python tests in test_application_security.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

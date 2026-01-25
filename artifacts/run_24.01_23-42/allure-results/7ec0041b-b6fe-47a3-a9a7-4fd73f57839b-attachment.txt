@@ -1,0 +1,200 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:05.324639+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Give court factor_35ce576e",
+      "description": "Stage safe tend half little happy.",
+      "body": "Care lawyer interesting decide worker listen ahead prove. Station deal after recognize happen store upon.\n\nMoment worry among create. Argue song entire stop.\n\nDebate others close how season religious. Better policy goal also. Stay environmental recently gas.",
+      "tagList": [
+        "space",
+        "that",
+        "soldier"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 891.26
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:05.510659+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Ability food_a4492c3c",
+      "description": "Type less night collection friend attention recently south opportunity watch.",
+      "body": "Agree agency apply impact work board stock. Mean ok sport because thank.\n\nSo throw rather hundred training past. Stand director heavy situation support four. Food research performance article beautiful hard understand.\n\nDoor company idea man unit go center. New thing media.",
+      "tagList": [
+        "specific",
+        "could",
+        "kind"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 184.44
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:05.696549+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Final without wrong_e38ea921",
+      "description": "Woman green subject meet trial good yet near relate maybe.",
+      "body": "Reflect meet authority despite on. Benefit play interesting goal store. Scene strategy marriage writer baby.\n\nTruth create type most all care exactly. Head move financial organization. Quickly art also here house remain.\n\nApproach group continue general eight simple sense star. Along bank citizen discover and century grow. Dream yet keep.",
+      "tagList": [
+        "responsibility",
+        "far",
+        "employee"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 184.09
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:05.880090+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Center benefit part_405961d2",
+      "description": "Win study guy avoid special prevent.",
+      "body": "North walk Mrs strategy prepare Mr cost hard. Final little TV wall clear challenge heavy everybody.\n\nFigure huge group never she. Item worry start yet fight peace.\n\nPolicy song kitchen Mrs read message product. Window lose artist into man attention knowledge.",
+      "tagList": [
+        "gas",
+        "analysis",
+        "force"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 182.33
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:06.064805+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Compare position thank thus_3eae3419",
+      "description": "Kid minute nor pressure project again player information which.",
+      "body": "Entire doctor old pattern. Line unit and arm collection pay trouble.\n\nIndividual daughter get couple. Hospital rule garden better heart.\n\nReality serious figure kid type study. Newspaper talk hot story break group appear. Understand most degree same without.",
+      "tagList": [
+        "happy",
+        "land",
+        "dark"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 183.25
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:06.240585+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Black majority father edge_4b9b177c",
+      "description": "Lose magazine traditional hospital TV responsibility fill.",
+      "body": "Heavy administration radio minute only. Show idea wind.\n\nProcess community war moment second Congress forget tax. Wear difference miss identify. Total adult degree leave note sit.\n\nArea majority eight miss per bad. Hold toward argue program red image buy condition.",
+      "tagList": [
+        "none",
+        "face",
+        "outside"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 174.57
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:06.414051+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Someone system environmental soon_f9a24e0d",
+      "description": "Capital know hand of water expert green couple figure.",
+      "body": "Same notice knowledge use set. School laugh will at skill them rock. Line strategy evidence with one themselves around.\n\nDegree call point deal born include. Choose call lose security chair page.\n\nUntil section once mind my free. Son company write year pressure upon lead.",
+      "tagList": [
+        "brother",
+        "alone",
+        "field"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 172.17
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:06.598335+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Laugh billion mean six_b1e9fa9d",
+      "description": "Race drop laugh interest page quality this major offer theory it attention represent.",
+      "body": "Individual sign must turn focus. Talk form professor economy piece policy morning federal. Fine job space story.\n\nSong statement message service. Year game chair make section.\n\nCertain world approach author exactly lay quite. Mrs notice do budget respond concern unit. Require player eight sign talk dream.",
+      "tagList": [
+        "hand",
+        "plan",
+        "listen"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 182.4
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:06.774060+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Law most war_1725beea",
+      "description": "Debate accept message deal benefit side issue song indeed before.",
+      "body": "But game tree girl. Cold size or walk.\n\nSister magazine eye employee resource. Back art month often realize commercial. Wide worry player.\n\nSecurity back some never bar able. Trade maintain him none.",
+      "tagList": [
+        "big",
+        "attack",
+        "onto"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 174.25
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:43:06.954878+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Example own under_1d8c36f7",
+      "description": "Quality tree drive run myself for interesting do us record listen.",
+      "body": "Growth myself second many bad window move. Movie well feeling national teacher require discover. Foreign task play important particularly fish enjoy view. Worry lawyer fund feeling performance unit work.\n\nMore nothing industry newspaper actually why as. Force public with member watch property you. Where piece yet than this. Sign relationship feeling affect scientist.\n\nPosition media between any.",
+      "tagList": [
+        "station",
+        "step",
+        "thing"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 179.59
+}

@@ -1,0 +1,5 @@
+[SETUP] Author 1 (maynardjohn_4d99efcd) created: Part without politics number
+[SETUP] Author 2 (ffoley_f7dc8aa6) created: Accept work simple
+[ACTION] Followed: maynardjohn_4d99efcd
+[ACTION] Followed: ffoley_f7dc8aa6
+[SUCCESS] All articles aggregated correctly in Your Feed.

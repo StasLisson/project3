@@ -1,0 +1,90 @@
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:41.833840+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 3107.16
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:42.005117+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 2974.94
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:42.011463+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 176.26
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:42.179494+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 173.16
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:42.283610+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 270.68
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:42.348131+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 2428.77
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:42.415160+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 234.35
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:42.467797+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 182.79
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:43.063922+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 3435.59
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:43.257142+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/group-second-answer-moment-0adffb5d/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 3964.48
+}

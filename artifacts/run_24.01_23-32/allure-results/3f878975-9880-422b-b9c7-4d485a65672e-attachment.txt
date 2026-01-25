@@ -1,0 +1,130 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:31.983240+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1683.48
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:32.031716+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1733.67
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:32.105259+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1803.25
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:32.169168+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 184.66
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:32.209030+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1907.28
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:32.215634+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 182.53
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:32.290047+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 183.5
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:32.300855+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1998.7
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:32.353664+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 183.11
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:32.392026+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-robert25-e04e769d/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 181.73
+}

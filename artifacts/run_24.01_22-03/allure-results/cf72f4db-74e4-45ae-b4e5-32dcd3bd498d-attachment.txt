@@ -1,0 +1,200 @@
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:24.348470+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Follow general might large_ccccf274",
+      "description": "Four unit safe worker that professor create fine laugh I series stock hair.",
+      "body": "Score popular president agent threat million. Various begin growth hair house.\n\nPosition man cut. Hundred painting system partner rise reality condition remember. Beyond future including nothing.\n\nNewspaper exist success. Conference sort yeah speech director. Forward black else bit.",
+      "tagList": [
+        "stand",
+        "again",
+        "for"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 807.2
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:24.521926+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "About win hand size measure_09273d47",
+      "description": "His network explain perform large than.",
+      "body": "Happy say painting land tree walk until writer. Allow thank author before after situation. Company identify across author act senior talk lawyer.\n\nWater election likely morning rule there big. Hard rule see art during. Herself authority again account computer entire. Month high group ten movement camera improve.\n\nNone poor parent sell seek.",
+      "tagList": [
+        "some",
+        "top",
+        "road"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 171.95
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:24.696553+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "People deep capital support_a38c6b4e",
+      "description": "Month director building strong girl sort live student reveal.",
+      "body": "Place wear skin person perform day. Before plant financial drop stay. State free nor foreign loss despite similar affect.\n\nHome someone else body thank remain teach maybe. Despite red democratic experience score. Recognize case field take.\n\nTeacher worker care strong unit stop. Toward turn go common one meeting level. Specific a themselves.",
+      "tagList": [
+        "necessary",
+        "election",
+        "stay"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 173.35
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:24.870045+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Own seem occur least_41cb2c9d",
+      "description": "Around mean hot parent force happy.",
+      "body": "Television weight loss. Politics professor indeed leg consumer various. Mrs community seven safe guy yes. Change radio head board training record pass.\n\nNotice wind call.\n\nOrder able music it career organization. Rich yard bar approach success. Effect may religious court best.",
+      "tagList": [
+        "left",
+        "with",
+        "class"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 172.23
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:25.043407+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Bill cut learn_67ab6eba",
+      "description": "Red song happen can travel able make.",
+      "body": "Offer herself issue fire whom. Help focus open. Four us across local hold store.\n\nFace believe some over foreign hold person. Ahead budget economic. Record remember nature politics guy condition blue.\n\nAge according evening see writer system. Argue term order often right discuss fire there.",
+      "tagList": [
+        "ground",
+        "impact",
+        "few"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 172.19
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:25.217601+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Scene top report special among_1a90ae6b",
+      "description": "Deep no south own north me report training.",
+      "body": "Cup your program huge.\n\nTerm anyone month research effort ask address.\n\nHelp man whom recently goal outside choice book. Whole final hard sell present serious official.",
+      "tagList": [
+        "address",
+        "produce",
+        "head"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 173.09
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:25.390398+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Sort bank per learn_0f3f17ab",
+      "description": "Return water force brother also resource hospital ability leave behind situation money than.",
+      "body": "Fast put would deep imagine own big seven. Once treatment no data team particular.\n\nDespite small act moment describe charge meeting. Ago open find center step relationship answer. Without mission catch expert understand leader.\n\nLike general pick term explain leg night. Wear successful place guy. Adult catch help main ball drive.",
+      "tagList": [
+        "recent",
+        "beat",
+        "point"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 171.62
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:25.563495+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Style particularly already ten mother_0068b990",
+      "description": "College feel through piece stay minute thousand call.",
+      "body": "Purpose right somebody medical how message. Number door in far bill.\n\nBetter trial approach physical as ten course. Five one cost radio. Site sure window.\n\nMr behavior interest draw side them tend while. Series service discover reflect office almost win force. Ten since subject pass tree design look.",
+      "tagList": [
+        "heavy",
+        "their",
+        "draw"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 171.81
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:25.736489+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Seat necessary move yes_0caff9bf",
+      "description": "Pay since reality federal arrive visit reality their particular follow deal.",
+      "body": "Energy somebody upon among organization prove all. Front into more school order man first.\n\nActivity picture walk statement.\n\nShare walk food white affect mother. Wait total back feel learn night measure role. Easy research audience help.",
+      "tagList": [
+        "level",
+        "natural",
+        "fall"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 171.39
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:25.908756+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Similar care follow family_e23fda25",
+      "description": "Decide hour toward out both full involve against point soon recent politics.",
+      "body": "National large make quickly you. Nearly his as two sell enter political. Responsibility determine player lead much general national.\n\nAnswer vote key young term no. Blue small mind top. As fight choose behind heavy.\n\nReligious picture design meeting she spend rule. Company team wife improve.",
+      "tagList": [
+        "southern",
+        "father",
+        "somebody"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 171.13
+}

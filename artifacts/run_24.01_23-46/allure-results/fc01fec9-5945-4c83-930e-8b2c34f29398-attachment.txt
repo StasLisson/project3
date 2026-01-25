@@ -1,0 +1,130 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.101348+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1478.14
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.131086+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1506.2
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.131972+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1503.97
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.134967+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1508.51
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.159621+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1537.32
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.279223+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 176.52
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.309325+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 175.72
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.316853+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 183.39
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.327104+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.99
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:47:00.341064+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup-sarahtrevino-140dd170/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.61
+}

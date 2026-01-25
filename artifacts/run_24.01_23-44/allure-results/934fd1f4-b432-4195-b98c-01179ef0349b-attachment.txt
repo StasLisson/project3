@@ -1,0 +1,90 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:38.792252+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1222.79
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:38.806678+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 994.23
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:39.048675+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 987.81
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:39.249107+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 931.27
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:39.256862+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 178.12
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:39.558602+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 186.1
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:39.563459+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 778.93
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:39.803091+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 181.19
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:40.046769+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 174.02
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:40.313156+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/ten-choice-tell-2af60052/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 184.1
+}

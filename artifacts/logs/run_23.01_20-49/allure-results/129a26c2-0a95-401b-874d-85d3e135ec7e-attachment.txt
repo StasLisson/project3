@@ -1,0 +1,1 @@
+DEBUG new_user: email=scottsmith.2908dc71@example.com password=PMZ8F8sy1#4B

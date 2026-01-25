@@ -1,0 +1,4 @@
+
+[SETUP] Article created: meeting-drop-company-watch-purpose
+[USER 1] Starting UI flow...
+[USER 1] Clicked Favorite.

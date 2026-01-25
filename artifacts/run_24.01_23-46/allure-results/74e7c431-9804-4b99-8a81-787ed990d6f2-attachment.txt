@@ -1,0 +1,90 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:52.083083+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1589.1
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:52.281685+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1465.0
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:52.614213+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 2419.19
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:52.752160+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 172.81
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:53.046328+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.42
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:53.359955+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 173.15
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:53.464123+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 2095.09
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:53.668410+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 177.55
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:53.777192+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1940.0
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:53.962694+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/right-ever-view-04971e65/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 182.28
+}

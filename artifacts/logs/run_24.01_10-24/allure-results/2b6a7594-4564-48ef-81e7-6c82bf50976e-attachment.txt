@@ -1,0 +1,4 @@
+
+[SETUP] Article created: cultural-drop-especially-drug-task
+[USER 1] Starting UI flow...
+[USER 1] Clicked Favorite. Waiting for (1)

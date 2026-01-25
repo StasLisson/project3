@@ -1,0 +1,200 @@
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:39.736506+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Last culture summer we sell_ae176515",
+      "description": "Theory small really group best across no task similar popular.",
+      "body": "Rich list adult loss. May many yes recent this method. Institution third cause pressure enough brother.\n\nRisk film leave about poor. Particularly travel need offer capital. Large including agent account southern increase best strategy. Seek scene social dinner.\n\nOnto third thousand heart rate. Standard support lawyer serious fire. Quality consumer head skill truth.",
+      "tagList": [
+        "consumer",
+        "back",
+        "land"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1131.32
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:39.910641+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Effort quickly at_68f16c1f",
+      "description": "Without lose many section respond year manager place type suffer throughout information project.",
+      "body": "Customer his form usually Congress. Claim want road however part.\n\nAnimal decide moment serve generation meeting bill. Image picture unit nor.\n\nService who table drive name able shoulder.",
+      "tagList": [
+        "boy",
+        "make",
+        "top"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 171.23
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:40.084509+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Field trade offer_1d2c138e",
+      "description": "Special area PM performance a near specific soon watch.",
+      "body": "Hospital effort fish goal position.\n\nAbove matter television each. Could whose subject same save sing rest. Remember single well shoulder.\n\nWhether message difference time serious edge poor right.",
+      "tagList": [
+        "life",
+        "protect",
+        "small"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 171.53
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:40.257231+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Spend front mouth order_cd1f0e98",
+      "description": "Sound wait health require administration executive go treat performance teach force member.",
+      "body": "Make tax country Republican left factor material. Former else old speech party cell apply save.\n\nOff chance firm drug party.\n\nDemocratic activity often shoulder challenge service.",
+      "tagList": [
+        "so",
+        "ask",
+        "woman"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 170.91
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:40.429244+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Price property_1b2f353f",
+      "description": "Threat might toward practice door floor sound between.",
+      "body": "Indicate cell appear business. Question maybe spend capital. Big trade religious notice former however.\n\nWill issue area go. View prove color clearly. Up price whole. Body relate similar perform.\n\nSense national open east those so add. Leg trip strategy south plan room. Against class like example word.",
+      "tagList": [
+        "suffer",
+        "quickly",
+        "base"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 169.97
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:40.608961+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Tv recently financial continue_4a6b4f2c",
+      "description": "Cup century with where share live I.",
+      "body": "Identify store relate property. Share total table change certainly your.\n\nAway people poor option defense benefit behavior. Mrs stand arrive appear magazine heavy. Easy perhaps commercial author out amount hair.\n\nEmployee possible professor necessary blood. Huge girl music beyond. Single fund series parent bill guy nothing.",
+      "tagList": [
+        "where",
+        "arrive",
+        "yard"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 177.34
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:40.782893+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Name head threat sing_44b8885e",
+      "description": "Because century degree war describe glass different tree.",
+      "body": "Later language run yes such others. Myself since cut first little mother.\n\nRemain try president argue different. Network can down science.\n\nSociety beautiful material against.",
+      "tagList": [
+        "bed",
+        "case",
+        "around"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 171.33
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:40.960837+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Product purpose majority forget_6932e15c",
+      "description": "Others beautiful senior prevent drug bag bit picture.",
+      "body": "Line Democrat stay idea listen media fish. Carry eight other why. Population color during account for move lawyer.\n\nLess boy they coach many note. Final military so to three might lose wrong.\n\nGo commercial office character us. Tell treatment thing mean guy.",
+      "tagList": [
+        "blood",
+        "couple",
+        "possible"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 175.16
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:41.142217+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Hundred must when_6c0bd2cd",
+      "description": "Cover soon by Mrs box feel many require team strategy.",
+      "body": "Reflect identify laugh form church. College three report cold serve catch. Its group study understand peace argue professional.\n\nWin unit section. Painting economy situation machine have. Truth best own avoid free dark return understand.\n\nInvolve end film effort. Include all knowledge space group tonight. Eight now perform.",
+      "tagList": [
+        "require",
+        "edge",
+        "technology"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 178.84
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:41.313085+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Approach ask_f67e45a5",
+      "description": "Hold reflect huge himself return just commercial quickly entire check.",
+      "body": "Perhaps onto or happy. Car staff Republican language point especially.\n\nEvidence light go together book response. Base once clear drive discuss.\n\nChoose American decision data site national. Mean beyond character cost young. Little minute himself walk new store talk.",
+      "tagList": [
+        "building",
+        "network",
+        "paper"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 169.01
+}

@@ -1,0 +1,26 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:54.452432+00:00",
+  "method": "PUT",
+  "endpoint": "/api/articles/race-eric67-cc574c93",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Title A"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1270.59
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:46:54.453036+00:00",
+  "method": "PUT",
+  "endpoint": "/api/articles/race-eric67-cc574c93",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Title B"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1268.95
+}

@@ -1,0 +1,4 @@
+{
+    "test": "test_user_account_update_profile_bio_should_persist",
+    "error": "browser = <infra.browser_wrapper.BrowserWrapper object at 0x00000257033B9350>\nnew_user = {'email': 'thomasblack.5e1a6ea1@example.com', 'password': 'vCEJXOkO*7$i', 'username': 'kreyes_98f21c74'}\n\n    @allure.feature(\"Profile\")\n    @allure.story(\"Update Bio\")\n    @pytest.mark.sanity\n    def test_user_account_update_profile_bio_should_persist(browser, new_user):\n        \"\"\"Verify profile updates persist.\"\"\"\n        auth = AuthenticationFlow(browser)\n        auth.login(new_user[\"email\"], new_user[\"password\"])\n    \n        with allure.step(\"Navigate to Settings\"):\n>           auth.auth_page.open_settings()\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nE           AttributeError: 'AuthenticationPage' object has no attribute 'open_settings'\n\ntest\\test_authentication_scenarios.py:66: AttributeError"
+}

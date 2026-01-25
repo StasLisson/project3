@@ -1,0 +1,200 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:34.253384+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Story behind laugh_da4a33f7",
+      "description": "Spend yourself end institution cause show power.",
+      "body": "Sea cultural population daughter. What forward add direction.\n\nFull drop ready sea born worry Republican. Leader investment nice first need organization operation. Discover role man.\n\nScience according land bed when establish. Short own should well until soldier. Technology pattern owner seat.",
+      "tagList": [
+        "the",
+        "arm",
+        "high"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1009.56
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:34.435916+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Think fight hard as_a7283603",
+      "description": "Fast story for government prepare owner along.",
+      "body": "Change level share knowledge push. Growth class beautiful win before. Glass local down with.\n\nFederal drop machine break. Only cut into yes. Determine figure before safe.\n\nSpecial candidate man Mr. Campaign investment turn that west give both. Value people surface probably.",
+      "tagList": [
+        "new",
+        "add",
+        "yard"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.86
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:34.617491+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Hard begin same sound_b93d07c8",
+      "description": "Choice defense minute window individual treatment radio.",
+      "body": "Statement smile interview boy wait. On themselves hand everything summer.\n\nCity maintain writer raise nation recently Mrs. Performance agree table serious official. Car couple tree risk create institution.\n\nCommercial peace account get trial really particularly. Republican instead huge.",
+      "tagList": [
+        "or",
+        "reason",
+        "own"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.27
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:34.799287+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Behind describe film site cover_8525a3de",
+      "description": "Consider receive they need general professor represent.",
+      "body": "Window first Congress. Bit benefit contain listen their month. Only dinner ok whole specific network.\n\nIn itself without show strong letter shoulder.\n\nGas choice push camera.",
+      "tagList": [
+        "purpose",
+        "seven",
+        "boy"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.48
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:34.981499+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Stay grow_fc1798ca",
+      "description": "Fast series family article expert crime own relationship music middle treatment.",
+      "body": "Base under born car word rich strong. Decade everyone fire college. Rest white wrong course back.\n\nPainting late list customer past health. Difficult paper live become race national this.\n\nRadio ability camera turn popular manage movement. Artist most firm side leader read. Real choice nearly phone drive.",
+      "tagList": [
+        "decide",
+        "sure",
+        "example"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.79
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:35.164745+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "So everybody_850f527d",
+      "description": "Involve yard commercial item mean common process hundred type hold provide throughout.",
+      "body": "Care weight that candidate somebody. Both fight road give race add red.\n\nHouse lay great house kind hundred join. Near guess keep old president fear thank.\n\nMust green military key meet young technology.",
+      "tagList": [
+        "wife",
+        "mention",
+        "why"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.94
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:35.342953+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Life reach set present cover_bfe8e86d",
+      "description": "He site dinner assume structure bag quite computer cell statement part interview.",
+      "body": "Base low blood. Add form seat air. Fast tell interesting realize my couple particularly record.\n\nMiddle society chair. Change statement focus to customer. Wife business young similar.\n\nRole risk chair describe stop. Watch herself ok. Gun strategy lose item.",
+      "tagList": [
+        "this",
+        "including",
+        "which"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 176.42
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:35.524183+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Throw recognize spring_612f6b8a",
+      "description": "Staff anything save sort concern word value war number would tree.",
+      "body": "Tax pick he cause wonder. According list administration huge. Your suddenly entire include art need compare.\n\nDiscussion station ago onto ability matter idea. Seven enjoy keep second best imagine year attack. Yard something maybe style class executive middle.\n\nCourse protect expect significant daughter visit up. Husband candidate probably each apply worker exist. Together explain large community too data.",
+      "tagList": [
+        "say",
+        "move",
+        "myself"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 179.91
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:35.703068+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Wall price food organization_4559c291",
+      "description": "Raise total crime suggest nation industry agree.",
+      "body": "Interview blood difficult summer animal occur sound. If tax practice piece. Official conference a operation.\n\nWho everybody matter. Hard view pressure floor outside. Usually everyone relate quite agency manage. Education almost situation by remain enjoy.\n\nTable admit make upon. Find instead player value decade agree.",
+      "tagList": [
+        "front",
+        "develop",
+        "particularly"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 176.46
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:45:35.885014+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "You citizen space organization where_f506ddab",
+      "description": "Meet simple amount especially along third set must quickly once newspaper every order.",
+      "body": "Interest food myself say involve doctor positive their. Represent which relationship forward. Notice billion future movement probably call join.\n\nMovie before court majority tax happy bit could. Specific organization break soon task spring fight. Room company increase already pay.\n\nCrime pretty culture statement among institution million. Everyone bill tonight economy onto street all.",
+      "tagList": [
+        "go",
+        "guess",
+        "say"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.29
+}

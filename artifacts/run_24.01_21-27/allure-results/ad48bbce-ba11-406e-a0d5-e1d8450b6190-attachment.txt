@@ -1,0 +1,1 @@
+CRITICAL root:api_client.py:99 NETWORK FAILURE: HTTPSConnectionPool(host='conduit-realworld-example-app.fly.dev', port=443): Max retries exceeded with url: /api/users (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))

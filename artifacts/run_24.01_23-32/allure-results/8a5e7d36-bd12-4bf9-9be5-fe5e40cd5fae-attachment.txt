@@ -1,0 +1,200 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:20.314314+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Democratic father mean Democrat provide_69ed9932",
+      "description": "Color view business from simple score state recognize own these but.",
+      "body": "Sit site stage especially. Truth second point grow range manager bag. Because total force huge.\n\nGoal realize lose also arrive effect first quickly. Decide government sport long less me face protect. Inside deal item future response.\n\nWater home nor charge audience against rate. Prepare project north sit yard. Institution site development most.",
+      "tagList": [
+        "bad",
+        "choose",
+        "major"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 2513.26
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:20.567575+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Drug war where_b4c5a2f9",
+      "description": "Minute question daughter property form street management politics accept probably.",
+      "body": "Trip claim might truth. Customer provide season far world.\n\nStar most push world. Father clearly tend dream take forward nature. Become follow per young.\n\nFinancial remain threat day doctor.",
+      "tagList": [
+        "according",
+        "keep",
+        "might"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 251.81
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:20.744072+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Civil cold light_49b4cc03",
+      "description": "Believe these may design into will there.",
+      "body": "Education word soon ask drop grow. Cultural may chance health key tough only. Better experience fight we clearly certainly third.\n\nDown available how together. Within purpose major film run range close. Bag along across try student machine.\n\nList ready sister scene. Determine government suddenly yourself.",
+      "tagList": [
+        "carry",
+        "far",
+        "type"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 174.61
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:20.930731+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Statement nor magazine tax tonight_c8b4629b",
+      "description": "Where use century thing quite choose the concern if.",
+      "body": "Structure him purpose meet short seem. Since set again however.\n\nAuthor success part something first option against. Key available thought remember fine which. Sign east meeting maintain suggest.\n\nIts party finish vote. Run various try north act.",
+      "tagList": [
+        "world",
+        "must",
+        "important"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 184.02
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:21.110569+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Represent arm create_2d9a0c7e",
+      "description": "Question will involve base cut himself black generation for shake wear establish.",
+      "body": "Morning side everything culture red public.\n\nNever carry along cultural. Choose seat TV assume. Program report bag culture control everybody.\n\nBeat certain rock less choose summer camera often. Everything middle benefit sit.",
+      "tagList": [
+        "as",
+        "catch",
+        "could"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 176.05
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:21.292660+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Cause model themselves life_ed96fde8",
+      "description": "Economic certain site political policy maybe that today boy.",
+      "body": "Record woman direction million. Single boy people part Democrat history fine important.\n\nSafe truth throw marriage question indicate your her. Baby ability mother just discussion their seek. Yet father word model view focus.\n\nMust media seem. Environmental daughter will all rise. Watch blue fill successful.",
+      "tagList": [
+        "sell",
+        "somebody",
+        "idea"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.07
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:21.471153+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Check spend theory society_04b02261",
+      "description": "Wind task us including board wide.",
+      "body": "Ability gas add oil space Democrat us. Must up mean increase consumer family instead.\n\nWhose hear whole. Political herself picture note test movement.\n\nProgram identify stock. Look institution feeling notice order allow. Thing describe edge Congress suddenly on.",
+      "tagList": [
+        "daughter",
+        "another",
+        "deep"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 177.06
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:21.646191+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Money soon even_16ec06ee",
+      "description": "Report organization our argue member enjoy about watch the.",
+      "body": "Admit record feel physical. Matter rock I.\n\nPopular be suffer just generation but senior. Bag feeling sit again score look.\n\nThose bed economic when. Guess bring top audience bit no upon. Source religious fall yet treat officer.",
+      "tagList": [
+        "meeting",
+        "machine",
+        "lead"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 172.86
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:21.822924+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Simply game test_24ef0307",
+      "description": "Degree degree game make history on quality able likely represent.",
+      "body": "From statement career station recent point. There whole more perform thank. Poor growth daughter series which together none.\n\nCard himself national serious activity office. For war word his speak without rather keep. Fly tonight anyone offer.\n\nCould concern well man. Garden factor act exist very task any wish.",
+      "tagList": [
+        "goal",
+        "need",
+        "probably"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 174.29
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:22.000995+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Person short place_7d74c974",
+      "description": "Law experience practice them sing choose kind herself service.",
+      "body": "Develop home identify exactly remain. Push animal floor some member film. Accept threat front long throw left third human.\n\nBelieve five cause more present between daughter nice. For shake future beat approach.\n\nAway meeting create. Industry power business rather light. Dream news among as everyone dark. Or factor whether opportunity pattern health well.",
+      "tagList": [
+        "involve",
+        "occur",
+        "indicate"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 176.37
+}

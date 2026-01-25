@@ -1,0 +1,13 @@
+
+[SETUP] Article created: well-such-east-almost-push-case-like
+[USER 1] Starting UI flow...
+[USER 1] Clicked Favorite. Waiting for count: 1
+[USER 1] Logged out successfully.
+[USER 2] Starting UI flow...
+[USER 2] Clicked Favorite. Waiting for count: 2
+[USER 2] Logged out successfully.
+[USER 3] Starting UI flow...
+[USER 3] Clicked Favorite. Waiting for count: 3
+[USER 3] Logged out successfully.
+[ASSERT] Verifying final aggregation via API...
+[SUCCESS] Final favorite count is: 3

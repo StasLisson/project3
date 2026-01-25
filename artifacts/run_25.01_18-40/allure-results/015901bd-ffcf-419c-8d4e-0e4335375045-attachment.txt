@@ -1,0 +1,90 @@
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:37.587443+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 2798.16
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:37.762388+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 172.12
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:37.863629+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 2793.0
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:37.947174+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 181.83
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:37.947631+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 2518.95
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:38.053948+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 2248.14
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:38.113637+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1979.63
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:38.167013+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 302.02
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:38.219404+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 181.68
+}
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:38.557137+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/pay-choose-program-in-84bcf4ef/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 169.71
+}

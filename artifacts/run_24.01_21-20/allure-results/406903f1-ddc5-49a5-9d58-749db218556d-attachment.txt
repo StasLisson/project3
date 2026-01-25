@@ -1,0 +1,9 @@
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:21:21.167538+00:00",
+  "method": "GET",
+  "endpoint": "/api/articles/food-item-71f10853",
+  "status_code": 404,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"Article not found \"]}}",
+  "elapsed_ms": 735.51
+}

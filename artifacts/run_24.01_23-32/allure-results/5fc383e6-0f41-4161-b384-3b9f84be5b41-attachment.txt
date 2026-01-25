@@ -1,0 +1,26 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:24.583911+00:00",
+  "method": "PUT",
+  "endpoint": "/api/articles/race-nhanson-53a0a533",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Title B"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1028.11
+}
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:33:24.588441+00:00",
+  "method": "PUT",
+  "endpoint": "/api/articles/race-nhanson-53a0a533",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Title A"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1040.08
+}

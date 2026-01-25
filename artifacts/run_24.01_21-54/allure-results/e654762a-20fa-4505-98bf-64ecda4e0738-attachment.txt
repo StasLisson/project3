@@ -1,0 +1,130 @@
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:53.819124+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1089.81
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:53.828632+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1095.42
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:53.856488+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1126.51
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:53.858120+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1123.17
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:53.862450+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1129.12
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:54.000242+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.28
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:54.007131+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 177.64
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:54.039404+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.43
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:54.041945+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 178.66
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T19:54:54.042913+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/cleanup/comments",
+  "status_code": 401,
+  "request_payload": {
+    "comment": {
+      "body": "C"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 185.58
+}

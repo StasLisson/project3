@@ -1,0 +1,26 @@
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:10:10.752525+00:00",
+  "method": "PUT",
+  "endpoint": "/api/articles/race-collinbrown-3a5c01c7",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Title B"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 848.71
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:10:11.364755+00:00",
+  "method": "PUT",
+  "endpoint": "/api/articles/race-collinbrown-3a5c01c7",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Title A"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 1461.56
+}

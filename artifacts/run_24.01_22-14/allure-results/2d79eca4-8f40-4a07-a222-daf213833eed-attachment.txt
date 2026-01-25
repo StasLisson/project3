@@ -1,0 +1,26 @@
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:49.845977+00:00",
+  "method": "PUT",
+  "endpoint": "/api/articles/race-marvinlutz-bed70ff1",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Title A"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 985.84
+}
+[1m[31mERROR   [0m root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:17:49.847113+00:00",
+  "method": "PUT",
+  "endpoint": "/api/articles/race-marvinlutz-bed70ff1",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Title B"
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 977.33
+}

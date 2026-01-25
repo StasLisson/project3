@@ -1,0 +1,9 @@
+[31m[1mERROR   [0m root:api_client.py:136 API FAILURE: {
+  "timestamp": "2026-01-25T16:41:07.991053+00:00",
+  "method": "GET",
+  "endpoint": "/api/articles/many-on-power-fdc6b524",
+  "status_code": 404,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"Article not found \"]}}",
+  "elapsed_ms": 1747.95
+}

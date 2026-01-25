@@ -1,0 +1,1 @@
+[HYBRID DEBUG] ui_route=#/settings | final_url=https://conduit-realworld-example-app.fly.dev/#/ | api_call=GET /api/user | status_code=401

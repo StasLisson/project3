@@ -1,0 +1,90 @@
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:14.776198+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 822.72
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:15.046252+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 849.61
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:15.112426+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.04
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:15.312501+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 874.92
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:15.352096+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 172.63
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:15.514338+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 825.05
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:15.608630+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 175.36
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:15.841432+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 168.74
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:16.086518+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 170.96
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:04:16.347259+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles/realize-figure-rest-295288e0/favorite",
+  "status_code": 401,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 173.59
+}

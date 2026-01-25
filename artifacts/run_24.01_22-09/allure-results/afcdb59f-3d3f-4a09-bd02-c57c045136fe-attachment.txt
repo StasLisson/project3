@@ -1,0 +1,200 @@
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:44.872987+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Newspaper this_051fedaf",
+      "description": "Describe better score no should seek citizen successful price future.",
+      "body": "Debate there politics child risk military remember western. Particularly travel box voice. Ahead identify little loss help. Moment term ahead.\n\nTell total mother audience. Dark environmental war else agreement view.\n\nGuy provide somebody right line boy newspaper. Play then itself but court probably institution last.",
+      "tagList": [
+        "foreign",
+        "top",
+        "product"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 814.76
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:45.055299+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Least tax fight throw establish_36ee18d2",
+      "description": "Follow drive ahead author should remain.",
+      "body": "Listen will event. Nature without conference assume bill adult must.\n\nSuccess model ask sea. Little matter standard politics marriage do. Record year enter scientist without consumer. Week short article learn participant should.\n\nAway couple including most meet building. Only later per number operation difference professional. Now nearly position stage.",
+      "tagList": [
+        "condition",
+        "box",
+        "big"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.39
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:45.236856+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Rest together clear_1d826efc",
+      "description": "Anyone kitchen either feeling partner certainly provide vote consider form thousand.",
+      "body": "Source final later pass fact benefit.\n\nHistory significant religious commercial party.\n\nLater forward need bed. Majority always such share financial. Beat involve special serve reflect.",
+      "tagList": [
+        "he",
+        "best",
+        "very"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.26
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:45.412281+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Young about newspaper author statement_3925bd65",
+      "description": "Bag letter above team professional floor.",
+      "body": "Leg section government number lose deep plant service. Long deep total west.\n\nInformation true during rest question. By daughter thing ten lot here. Brother look yeah.\n\nOnto bar within same foreign. Now choice themselves sure whole. Reveal however magazine quality network value out.",
+      "tagList": [
+        "task",
+        "reality",
+        "town"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 174.3
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:45.588130+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Truth course true thus none_825de486",
+      "description": "But yard consumer including some send heart mother culture suffer.",
+      "body": "Everybody strong out media. Agency turn discover increase various response. Almost power a performance page.\n\nMorning professor president thus many. Here street son.\n\nRace son eight of. Majority in white because light debate picture. Camera scene idea statement tend push.",
+      "tagList": [
+        "teacher",
+        "power",
+        "compare"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 174.56
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:45.770298+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Tell true avoid make amount_415c35b3",
+      "description": "Know use Republican design relationship sister feel fight.",
+      "body": "Billion imagine where mind form trial chair recognize. Without camera sure space manage trouble book. None bill late network suffer.\n\nOption night say source child sell address. Human so cup rich. Measure able avoid also meet economy.\n\nComputer discover bed audience official late probably. Attorney table wait push truth mean but.",
+      "tagList": [
+        "down",
+        "south",
+        "election"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 181.04
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:45.951068+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Walk blue hospital_92118214",
+      "description": "Involve economic next section buy company situation create world race receive face make.",
+      "body": "Blood store why certain couple. Blue sport hit any.\n\nAccount hundred last produce process.\n\nReport join always carry miss. Exactly safe wide yourself money.",
+      "tagList": [
+        "body",
+        "collection",
+        "firm"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 179.61
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:46.132050+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Character score_0ed4ffa3",
+      "description": "Test table season writer defense be.",
+      "body": "Medical for down reality third. Wall table south career name baby.\n\nMean develop system trade four want physical indicate. Think site adult throughout end. Once benefit lay turn relate might affect.\n\nIncluding look happy course keep four hour. Candidate something great of into easy.",
+      "tagList": [
+        "idea",
+        "day",
+        "ready"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 179.51
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:46.312765+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Performance you daughter city_5ce3d1fe",
+      "description": "People paper see thing agency fly plan owner.",
+      "body": "Step campaign bag answer.\n\nSite defense seek back raise. Team difficult tax indicate drive house. Since meeting rate or beat view citizen.\n\nEnough size view during bring black. Central us human participant down. Particularly sign century practice authority ok.",
+      "tagList": [
+        "out",
+        "leave",
+        "war"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 179.55
+}
+ERROR    root:api_client.py:89 API FAILURE: {
+  "timestamp": "2026-01-24T20:09:46.494266+00:00",
+  "method": "POST",
+  "endpoint": "/api/articles",
+  "status_code": 401,
+  "request_payload": {
+    "article": {
+      "title": "Decade it treatment_aa56837f",
+      "description": "Range administration mean executive improve TV late.",
+      "body": "I interest my maintain your drug technology. More animal money team bad. Fill window available religious fight close shake.\n\nAround visit history lose will wonder he media. Difficult indicate two adult. Lawyer head evening democratic.\n\nProtect child new reality how present decide. Low some describe rise. Arm couple top Mrs once address.",
+      "tagList": [
+        "above",
+        "their",
+        "indicate"
+      ]
+    }
+  },
+  "response_body": "{\"errors\":{\"body\":[\"You need to login first!\"]}}",
+  "elapsed_ms": 180.21
+}

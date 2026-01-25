@@ -1,0 +1,7 @@
+
+--- LOGIN COMPLETED, WAITING 3 SECONDS ---
+--- NAVIGATED TO EDITOR, WAITING 3 SECONDS ---
+--- TITLE TYPED, WAITING 3 SECONDS BEFORE PUBLISH ---
+--- PUBLISH CLICKED, WAITING 3 SECONDS BEFORE VERIFY ---
+EXPECTED: Story gun learn present dinner parent game updated
+ACTUAL:   Story gun learn present dinner parent game updated

@@ -1,0 +1,9 @@
+[31m[1mERROR   [0m root:api_client.py:113 API FAILURE: {
+  "timestamp": "2026-01-24T21:32:41.784473+00:00",
+  "method": "GET",
+  "endpoint": "/api/articles/story-defense-tonight-speech-8d4d5766",
+  "status_code": 404,
+  "request_payload": null,
+  "response_body": "{\"errors\":{\"body\":[\"Article not found \"]}}",
+  "elapsed_ms": 1010.95
+}
